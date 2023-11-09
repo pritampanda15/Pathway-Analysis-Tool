@@ -1,5 +1,3 @@
-Certainly! Below is a template for a README document for your project. You should adjust it to match the specific details and requirements of your script and environment:
-
 ```markdown
 # Pathway Analysis Tool
 
@@ -7,7 +5,7 @@ This R script performs a pathway analysis using gene symbols as input to query t
 
 ## Requirements
 
-- R Programming Language (version X.X.X or higher)
+- R Programming Language (version 4.0.0 or higher)
 - R packages: httr, jsonlite
 
 ## Installation
@@ -65,10 +63,3 @@ For further assistance or to report bugs, please contact the maintainers at [rah
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 ```
-
-When using this template, you should:
-
-1. Replace placeholder text (e.g., `version X.X.X`, `GENE1,GENE2,GENE3`, `[your-email@example.com]`, and `[LICENSE.md](LICENSE)`) with the actual information relevant to your script and project.
-2. Add any additional sections that might be necessary for your project, such as 'Configuration' if there's a need to configure the script before running, or 'Contributing' if it's a collaborative project.
-3. Ensure all links (e.g., to CRAN or a hypothetical LICENSE file) are correct and lead to the intended destination.
-4. If you have a license file, replace `LICENSE.md` with the name of your actual license file.
